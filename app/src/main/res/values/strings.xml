@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Cancion</string>
+
+    <string name="Actividad1">Actividad1</string>
+    <string name="Actividad2">Actividad2</string>
+    <string name="Actividad3">Actividad3</string>
+
+    <string name="GENERO">GENERO</string>
+    <string name="JPop">JPop</string>
+    <string name="Metal">Metal</string>
+    <string name="Electronica">Electronica</string>
+    <string name="Instrumental">Instrumental</string>
+    <string name="Gotic">Gotic</string>
+
+    <string name="imgPlay1">imgPlay1</string>
+    <string name="imgPlay2">imgPlay2</string>
+    <string name="imgPlay3">imgPlay3</string>
+    <string name="imgPlay4">imgPlay4</string>
+    <string name="imgPlay5">imgPlay5</string>
+    <string name="imgStop">imgStop</string>
+
+    <string name="mirai_nikki_yousei_teikoku_kuusou_mesorogiwi"><a href="https://jpop.fandom.com/wiki/Kuusou_Mesorogiwi">mirai_nikki_yousei_teikoku_kuusou_mesorogiwi</a></string>
+    <string name="fullmetal_alchemist_yui_again_shoty_ver"><a href="https://drama.fandom.com/es/wiki/YUI">fullmetal_alchemist_yui_again_shoty_ver</a></string>
+    <string name="evangelion_yoko_takahashi_zankoku_na_tenshi"><a href="https://evangelion.fandom.com/wiki/Yoko_Takahashi">evangelion_yoko_takahashi_zankoku_na_tenshi</a></string>
+    <string name="naruto_sign_flow"><a href="https://drama.fandom.com/es/wiki/FLOW">naruto_sign_flow</a></string>
+    <string name="sword_art_online_lisa_crossing_field"><a href="https://drama.fandom.com/es/wiki/LiSA" >sword_art_online_lisa_crossing_field</a></string>
+
+
+    <string name="imgPlay11">imgPlay11</string>
+    <string name="imgPlay12">imgPlay12</string>
+    <string name="imgPlay13">imgPlay13</string>
+    <string name="imgPlay14">imgPlay14</string>
+    <string name="imgPlay15">imgPlay15</string>
+    <string name="imgStop1">imgStop1</string>
+
+    <string name="BabeMetal_Gimme_chocolate"><a href="https://babymetal.fandom.com/wiki/BABYMETAL">BabeMetal_Gimme_chocolate</a></string>
+    <string name="Rammstein_Deutschland"><a href="https://rammstein.fandom.com/wiki/Rammstein">Rammstein_Deutschland</a></string>
+    <string name="Papa_roach_last_resort_"><a href="https://rock.fandom.com/wiki/Papa_Roach">Papa_roach_last_resort_</a></string>
+    <string name="System_of_Down_Chow_suey"><a href="https://soad.fandom.com/wiki/System_of_a_Down">System_of_Down_Chow_suey</a></string>
+    <string name="Maximum_whats_Up_"><a href="https://villains.fandom.com/wiki/Maximum">Maximum_whats_Up_</a></string>
+
+    <string name="imgPlay21">imgPlay21</string>
+    <string name="imgPlay22">imgPlay22</string>
+    <string name="imgPlay23">imgPlay23</string>
+    <string name="imgPlay24">imgPlay24</string>
+    <string name="imgPlay25">imgPlay25</string>
+    <string name="imgStop2">imgStop2</string>
+
+    <string name="Alesso_Katy_Perry_When_Im_Gone">Alesso_Katy_Perry_When_Im_Gone</string>
+    <string name="Arctic_Lake_Love_You_Like_That">Arctic_Lake_Love_You_Like_That</string>
+    <string name="Galantis_David_Guetta_Little_Mix">Galantis_David_Guetta_Little_Mix</string>
+    <string name="Minelli_Rampampam">Minelli_Rampampam</string>
+    <string name="Post_Malone_Rockstar">Post_Malone_Rockstar</string>
+
+    <string name="imgPlay31">imgPlay31</string>
+    <string name="imgPlay32">imgPlay32</string>
+    <string name="imgPlay33">imgPlay33</string>
+    <string name="imgPlay34">imgPlay34</string>
+    <string name="imgPlay35">imgPlay35</string>
+    <string name="imgStop3">imgStop3</string>
+
+    <string name="Yuki_Kajiura_Sand_Dream">Yuki_Kajiura_Sand_Dream</string>
+    <string name="Hiroyuki_Sawano_Vogel">Hiroyuki_Sawano_Vogel</string>
+    <string name="Andre_Rieu_The_Lonely_Shepherd">Andre_Rieu_The_Lonely_Shepherd</string>
+    <string name="Two_Steps_From_Hell_Star_Sky">Two_Steps_From_Hell_Star_Sky</string>
+    <string name="Yuki_Kajura_Sword">Yuki_Kajura_Sword</string>
+
+    <string name="imgPlay41">imgPlay41</string>
+    <string name="imgPlay42">imgPlay42</string>
+    <string name="imgPlay43">imgPlay43</string>
+    <string name="imgPlay44">imgPlay44</string>
+    <string name="imgPlay45">imgPlay45</string>
+    <string name="imgStop4">imgStop4</string>
+
+    <string name="The_Cure_Lullaby">The_Cure_Lullaby</string>
+    <string name="Lacuna_Coil_Daylight_Dancer">Lacuna_Coil_Daylight_Dancer</string>
+    <string name="LEAVES_EYES_My_Destiny">LEAVES_EYES_My_Destiny</string>
+    <string name="Trees_Of_Eternity_Black_Ocean_Somewhere">Trees_Of_Eternity_Black_Ocean_Somewhere</string>
+    <string name="Within_Temptation_Somewhere">Within_Temptation_Somewhere</string>
+
+
+</resources>
